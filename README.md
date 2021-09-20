@@ -1,5 +1,7 @@
 # DEVOPS
 
+
+
 In deze module leer de basis van versiebeheer met **Git**, **Github** en de **Visual Studio Code** editor van Microsoft. Daarnaast leer je hoe je eventuele starterscode die bij een module hoort download en hoe je je gemaakte werk inlevert via Github en in Canvas.
 
 ## Uitleg
